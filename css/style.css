@@ -1,0 +1,67 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: url("https://upload.cc/i/flLjMw.jpg");
+  background-repeat: no-repeat;
+  background-size: 130%; 
+  width: 393px;
+}
+
+
+
+h1 {
+   color: black;
+   -webkit-text-fill-color: white; 
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: white;
+   text-align: center;
+   margin: 70px 45px;
+   font-size: 30px;
+	 font-weight: bold;
+   text-align: center;
+	 text-shadow: rgba(0, 0, 0, .3) 10px 8px 10px;
+  
+}
+/*
+.imgs {
+  padding: 30px;
+  border: 1px solid white;
+  max-width: 40%;
+}*/
+
+img {
+  max-width:80%;
+  height:auto;
+  margin: 2px 45px
+}
+
+
+.img-1 {
+    margin: 10px auto;
+    padding: 5px;
+    max-width: 10%; /* to control size */
+    margin-left: 20%; /* move it to real middle */
+}
+
+.block-1, .block-2 {
+    padding: 15px;
+    max-height: 30%;
+    margin:  auto;
+
+}
+
+
+.block-2 {
+    margin-top: -85%;
+}
+
+.test1 {
+  margin-top: -260px;
+  margin-bottom: 80px;
+  margin-right: -15px
+}
+
+.test2 {
+  margin-top: 60px;
+  margin-bottom: 80px;
+  margin-right: -15px
+}
